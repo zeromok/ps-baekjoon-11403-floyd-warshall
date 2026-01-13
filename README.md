@@ -1,7 +1,7 @@
 # 백준 11403 - 경로 찾기: 플로이드-워셜의 본질
 
 [![문제 링크](https://img.shields.io/badge/Baekjoon-11403-blue)](https://www.acmicpc.net/problem/11403)
-[![블로그 포스트](https://img.shields.io/badge/Blog-Read%20Full%20Story-green)](;;)
+[![블로그 포스트](https://img.shields.io/badge/Blog-Read%20Full%20Story-green)](https://b-mokk.tistory.com/88)
 
 ## 📊 알고리즘 비교
 
@@ -101,12 +101,12 @@ if (graph[i][k] == 1 && graph[k][j] == 1) {
 ## 📝 전체 해결 과정
 
 전체 문제 해결 과정은 블로그 포스트에서 확인할 수 있습니다:
-👉 **[블로그 포스트](;;)**
+👉 **[블로그 포스트](https://b-mokk.tistory.com/88)**
 
 ## 🔗 관련 링크
 
 - [백준 11403번 문제](https://www.acmicpc.net/problem/11403)
-- [블로그 포스트](;;)
+- [블로그 포스트](https://b-mokk.tistory.com/88)
 
 ---
 
